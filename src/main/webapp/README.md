@@ -1,0 +1,2 @@
+- `WEB-INF`: Configuration files;
+- `index.html`: not needed at all.
