@@ -4,4 +4,7 @@
 	<interceptors>
 		<class>cdi.example6.TimeLoggedInterceptor</class>
 	</interceptors>
+	<decorators>
+		<class>cdi.example7.Example7Decorator</class>
+	</decorators>
 </beans>
