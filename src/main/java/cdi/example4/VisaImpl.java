@@ -1,4 +1,4 @@
-package example4;
+package cdi.example4;
 
 @Visa
 public class VisaImpl implements CreditCard {

@@ -1,4 +1,4 @@
-package example4;
+package cdi.example4;
 
 import static java.util.stream.StreamSupport.stream;
 

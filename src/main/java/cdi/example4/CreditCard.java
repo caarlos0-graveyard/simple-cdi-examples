@@ -1,4 +1,4 @@
-package example4;
+package cdi.example4;
 
 public interface CreditCard {
     String getNumber();

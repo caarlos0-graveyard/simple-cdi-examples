@@ -1,4 +1,4 @@
-package example4;
+package cdi.example4;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;
