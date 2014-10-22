@@ -16,3 +16,5 @@ Those examples cover:
 
 Some examples may use more than one of those "features".
 
+Every folder has his own README file which says what it
+does and what it uses.
