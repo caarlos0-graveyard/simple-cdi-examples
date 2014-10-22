@@ -1,4 +1,4 @@
-simple-cdi-samples
+simple-cdi-examples
 ==================
 
 Just a few simple CDI examples, mostly to help newcomers to Java EE/CDI.
