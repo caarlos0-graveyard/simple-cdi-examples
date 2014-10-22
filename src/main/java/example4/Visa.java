@@ -1,4 +1,4 @@
-package cdi.example3;
+package example4;
 
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;

@@ -1,8 +1,6 @@
-package cdi.example3;
+package example4;
 
-import javax.inject.Named;
-
-@Named("master")
+@MasterCard
 public class MasterCardImpl implements CreditCard {
     @Override
     public String getNumber() {

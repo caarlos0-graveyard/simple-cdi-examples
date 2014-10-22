@@ -1,4 +1,4 @@
-package cdi.example3;
+package example4;
 
 import static java.util.stream.StreamSupport.stream;
 
@@ -7,15 +7,14 @@ import java.util.stream.Collectors;
 import javax.enterprise.inject.Any;
 import javax.enterprise.inject.Instance;
 import javax.inject.Inject;
-import javax.inject.Named;
 
-public class Example3 {
+public class Example4 {
     @Inject
-    @Named("master")
+    @MasterCard
     private CreditCard master;
 
+    @Visa
     @Inject
-    @Named("visa")
     private CreditCard visa;
 
     @Any
